@@ -36,7 +36,7 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 // ==== Closures ==== 
 
 // Explain in your own words why nestedfunction can access the variable internal.
-
+// Because of the way scope works with enclosures you can access variables from the inside out but not from the outside in
 // Explanation: 
 
 
