@@ -33,7 +33,7 @@ Edit this document to include your answers after each question. Make sure to lea
 2. What is the difference between a function and a method?
 A method is just a function inside an object
 3. What is closure?
-Anything surrounded by curly braces that can access the outside parameters
+A function that has access to the outside scope
 4. Describe the four rules of the 'this' keyword.
 When referenced in the global scope it's refering to the window object
 When a function is called by a preceeding dot the object before the dot is this
